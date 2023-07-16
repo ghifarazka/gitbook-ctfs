@@ -131,4 +131,4 @@ print(long_to_bytes(flag))
 b'l0li_m4t4_pem4lu_4ns0s_:p'
 ```
 
-`Flag: TechnoFairCTF{l0li_m4t4_pem4lu_4ns0s_:p}`
+Flag: `TechnoFairCTF{l0li_m4t4_pem4lu_4ns0s_:p}`
