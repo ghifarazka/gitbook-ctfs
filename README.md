@@ -8,7 +8,7 @@ Here's a quick link to all of the write-ups. For international CTFs, the write-u
 |  Title  |   Category   | Stage |               Write-Up               |          Notes         |
 |:-------:|:------------:|:-----:|:------------------------------------:|:----------------------:|
 | rapsodi | Cryptography | Qual  | [Link](./technofair-10/cry/rapsodi/) | LCG, Bitwise Operation |
-
+| Pengen Merch JKT | Cryptography | Qual  | [Link](./technofair-10/cry/pengen-merch-jkt/) | AES-CBC, Bit Flipping, XOR |
 
 ### Gemastik2023
 

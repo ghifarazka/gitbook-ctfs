@@ -154,7 +154,7 @@ while True:
 
 Pada program, kita bisa melakukan registrasi, lalu meng-input username beserta password, lalu mendapatkan token yang dapat digunakan untuk login. 
 
-![Hasil run server](./runserver.png)
+![Hasil run server](./img/runserver.png)
 
 Setelah mengotak-atik source code, saya menemukan bahwa token ini adalah data json dari user (berisi username, password, dan saldo) yang di-enkripsi menggunakan AES-CBC. Berikut adalah contoh json-nya.
 
@@ -174,7 +174,7 @@ c85dbe72d4c15eb712575d30fa6e96e3
 
 Untuk mendapatkan flag, kita harus memanipulasi tokennya sedemikian sehingga data pada saldo berubah dari 0 menjadi angka yang sebesar mungkin. Karena enkripsi token menggunakan AES-CBC, kita dapat melakukan `Bit Flipping Attack`. Pertama-tama, konsep enkripsi AES dengan mode CBC adalah sebagai berikut.
 
-![AES-CBC Encryption](./aescbcencryption.png)
+![AES-CBC Encryption](./img/aescbcencryption.png)
 
 Untuk penjelasan lengkap dan secara umum dapat dibaca pada [artikel](https://zhangzeyu2001.medium.com/attacking-cbc-mode-bit-flipping-7e0a1c185511) yang telah saya sebut di atas. Pada write-up ini, saya akan langsung membahas penerapannya pada soal. Apabila diagram di atas diterapkan pada token yang telah kita dapatkan, jadinya adalah seperti berikut.
 
