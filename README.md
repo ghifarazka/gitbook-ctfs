@@ -9,6 +9,8 @@ Here's a quick link to all of the write-ups. For international CTFs, the write-u
 |:-------:|:------------:|:-----:|:------------------------------------:|:----------------------:|
 | rapsodi | Cryptography | Qual  | [Link](./technofair-10/cry/rapsodi/) | LCG, Bitwise Operation |
 | Pengen Merch JKT | Cryptography | Qual  | [Link](./technofair-10/cry/pengen-merch-jkt/) | AES-CBC, Bit Flipping, XOR |
+| Sekte Pemuja Osha Oshi | Cryptography | Final  | [Link](./technofair-10/cry/sekte-pemuja-osha-oshi/) | - |
+| Jurus Rahasia Teleport | Cryptography | Final  | [Link](./technofair-10/cry/jurus-rahasia-teleport/) | - |
 | file pemberian fans | Forensics | Qual  | [Link](./technofair-10/foren/file-pemberian-fans) | docx, OLE file, macro, vba, malware |
 
 ### Gemastik2023
