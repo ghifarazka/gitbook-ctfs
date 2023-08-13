@@ -18,3 +18,5 @@ Here's a quick link to all of the write-ups. For international CTFs, the write-u
 | Title |  Category |  Stage  |              Write-Up              | Notes |
 |:-----:|:---------:|:-------:|:----------------------------------:|:-----:|
 | Gen-Z | Forensics | Warm-Up | [Link](./gemastik-23/foren/gen-z/) | zlib  |
+| easy AES | Cryptography | Qual | [Link](./gemastik-23/cry/easy-aes/) | AES-OFB, XOR  |
+| k-1 | Cryptography | Qual | [Link](./gemastik-23/cry/k-1/) | Shamir Secret Sharing Scheme, polynomials, mod arithmetic |
