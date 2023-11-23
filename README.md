@@ -12,6 +12,7 @@ Here's a quick link to all of the write-ups. For international CTFs, the write-u
 | Sekte Pemuja Osha Oshi | Cryptography | Final  | [Link](./technofair-10/cry/sekte-pemuja-osha-oshi/) | - |
 | Jurus Rahasia Teleport | Cryptography | Final  | [Link](./technofair-10/cry/jurus-rahasia-teleport/) | - |
 | file pemberian fans | Forensics | Qual  | [Link](./technofair-10/foren/file-pemberian-fans) | docx, OLE file, macro, vba, malware |
+| bantu aku mencari sebuah rahasia | Forensics | Final  | [Link](./technofair-10/foren/bantu-aku) | Memory Forensics, Volatility |
 
 ### Gemastik2023
 
