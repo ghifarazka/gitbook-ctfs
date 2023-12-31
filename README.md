@@ -3,6 +3,14 @@ a repo where I post things I've learned from CTFs, in the form of write-ups.
 
 Here's a quick link to all of the write-ups. For international CTFs, the write-ups are in English. For national CTFs, the write-ups are in Indonesian.
 
+### Techcomfest 2024
+
+| Title |  Category |  Stage  |              Write-Up              | Notes |
+|:-----:|:---------:|:-------:|:----------------------------------:|:-----:|
+| crackable | Cryptography | Qual | [Link](./techcomfest-24/cry/crackable/) | MD5, hash collision  |
+| pemanasan | Forensics | Qual | [Link](./techcomfest-24/foren/pemanasan/) | pdfcrack, qpdf, JSFuck  |
+| Kuli-ah forensik | Forensics | Qual | [Link](./techcomfest-24/foren/kuliah/) | johntheripper, zip crack, sstv  |
+
 ### NCW 2023
 
 | Title |  Category |  Stage  |              Write-Up              | Notes |
