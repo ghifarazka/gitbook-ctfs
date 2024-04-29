@@ -5,7 +5,9 @@
 ## 🚩 Write-Ups
 
 * [2024](write-ups/2024/README.md)
-  * [GKSK#8 Osintathon](write-ups/2024/gksk-8-osintathon.md)
+  * [GKSK#8 Osintathon](write-ups/2024/gksk-8-osintathon/README.md)
+    * [Sport Location](write-ups/2024/gksk-8-osintathon/sport-location.md)
+    * [Page 1](write-ups/2024/gksk-8-osintathon/page-1.md)
   * [Techcomfest 24](write-ups/2024/techcomfest-24/README.md)
     * [pemanasan](write-ups/2024/techcomfest-24/pemanasan.md)
     * [crackable](write-ups/2024/techcomfest-24/crackable.md)
