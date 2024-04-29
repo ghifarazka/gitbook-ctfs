@@ -1,6 +1,7 @@
-# easy AES (50 pts)
+# easy AES
 
 ### Deskripsi
+
 > Attack on AES OFB
 >
 > Author: prajnapras19
@@ -9,7 +10,7 @@
 
 Kita diberikan sebuah service dan source code dari service tersebut.
 
-##### chall.py
+**chall.py**
 
 ```py
 from Crypto.Cipher import AES
@@ -66,41 +67,39 @@ print('bye.')
 
 Berikut tampilannya apabila dijalankan.
 
-![](./img/runserver.png)
+![](../../../gemastik-23/cry/easy-aes/img/runserver.png)
 
-Pada soal ini, terdapat sebuah implementasi `AES` dengan mode `OFB` yang kelihatannya normal-normal saja. Lalu di mana vuln-nya? Setelah membaca berbagai sumber untuk memahami mode operasi OFB, saya jadi memahami bahwa OFB ini intinya adalah iv yang di-enkripsi berkali-kali (sesuai jumlah block), lalu hasil enkripsi tersebut di-xor-kan dengan plaintext pada block masing-masing. Jika dipikir-pikir, OFB ini bekerja seperti OTP (One Time Password) di mana OTP-nya adalah nilai dari IV. 
+Pada soal ini, terdapat sebuah implementasi `AES` dengan mode `OFB` yang kelihatannya normal-normal saja. Lalu di mana vuln-nya? Setelah membaca berbagai sumber untuk memahami mode operasi OFB, saya jadi memahami bahwa OFB ini intinya adalah iv yang di-enkripsi berkali-kali (sesuai jumlah block), lalu hasil enkripsi tersebut di-xor-kan dengan plaintext pada block masing-masing. Jika dipikir-pikir, OFB ini bekerja seperti OTP (One Time Password) di mana OTP-nya adalah nilai dari IV.
 
-![](./img/ofb.png)
+![](../../../gemastik-23/cry/easy-aes/img/ofb.png)
 
-Bicara soal OTP, satu hal yang harus diperhatikan adalah password yang digunakan pada OTP hanya boleh digunakan sekali. Masalahnya, pada soal ini, kita malah diperbolehkan meng-enkripsi plaintext apapun berkali-kali, tentunya dengan iv yang sama :). Di sinilah letak *vuln*-nya.
+Bicara soal OTP, satu hal yang harus diperhatikan adalah password yang digunakan pada OTP hanya boleh digunakan sekali. Masalahnya, pada soal ini, kita malah diperbolehkan meng-enkripsi plaintext apapun berkali-kali, tentunya dengan iv yang sama :). Di sinilah letak _vuln_-nya.
 
-![](./img/runtry.png)
+![](../../../gemastik-23/cry/easy-aes/img/runtry.png)
 
 Nah untuk meng-exploitnya, mari kita merujuk kembali pada cara kerja OFB. Kita bisa saja meng-input pesan “bikinan” yang nilainya kita ketahui untuk di-enkripsi pada service. Dengan memiliki sepasang plaintext dan ciphertext yang diketahui, kita bisa menemukan nilai “iv yang dienkripsi” dengan beberapa operasi xor.
 
 Supaya lebih jelas, berikut ini adalah contoh. Katakanlah ada pesan sepanjang 3 block yang dienkripsi dengan OFB. Di sini, plaintext ditulis sebagai `pt`, `iv` berarti “iv hasil enkripsi”, `kpt` adalah known plaintext (nilai “bikinan” kita), dan `kct` adalah known ciphertext.
 
-![](./img/contoh.png)
+![](../../../gemastik-23/cry/easy-aes/img/contoh.png)
 
 Maka dari itu, untuk mendapatkan nilai `secret`, ini adalah hal-hal yang perlu kita lakukan:
-- membuat nilai `kpt`
-- membagi `kpt` ke dalam block”
 
-- meng-enkripsi `kpt` → mendapatkan nilai `kct`
-- membagi `kct` ke dalam block”
-
-- meng-xor masing-masing block (`kpt_i` ^ `kct_i`) → mendapatkan `iv`
-
-- mengambil nilai `ct` (dari service)
-- membagi `ct` ke dalam block”
-
-- meng-xor masing-masing block (`ct` ^ `iv`) → mendapatkan `pt`
-- ubah `pt` dari format per block, menjadi satu kesatuan utuh.
-- submit
+* membuat nilai `kpt`
+* membagi `kpt` ke dalam block”
+* meng-enkripsi `kpt` → mendapatkan nilai `kct`
+* membagi `kct` ke dalam block”
+* meng-xor masing-masing block (`kpt_i` ^ `kct_i`) → mendapatkan `iv`
+* mengambil nilai `ct` (dari service)
+* membagi `ct` ke dalam block”
+* meng-xor masing-masing block (`ct` ^ `iv`) → mendapatkan `pt`
+* ubah `pt` dari format per block, menjadi satu kesatuan utuh.
+* submit
 
 Dan berikut ini adalah kode solver yang mengimplementasikan hal-hal di atas.
 
-##### solve.py
+**solve.py**
+
 ```py
 from Crypto.Util.Padding import pad, unpad
 from Crypto.Util.number import *
@@ -145,11 +144,8 @@ print(bytes_to_long(secret))
 
 Dari sini, hasil secret-nya tinggal kita submit ke server. Flag pun didapatkan.
 
-![](./img/solve.png)
-![](./img/getflag.png)
+![](../../../gemastik-23/cry/easy-aes/img/solve.png) ![](../../../gemastik-23/cry/easy-aes/img/getflag.png)
 
-**Referensi**
-https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation 
-https://ctftime.org/writeup/22856#ofbuscated
+**Referensi** https://en.wikipedia.org/wiki/Block\_cipher\_mode\_of\_operation https://ctftime.org/writeup/22856#ofbuscated
 
 Flag: `gemastik{c43ef527f089bcf2a87373b2e2b6de0ef7005c3038c1f9910cd3c5013f42f054}`

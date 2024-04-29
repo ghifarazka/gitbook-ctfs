@@ -1,6 +1,7 @@
-# Pengen Merch JKT 😢 (Solved after event)
+# Pengen Merch JKT 😢
 
 ### Deskripsi
+
 > Pengen Merch JKT tapi gada duit :( top-up in dong bang.
 >
 > Author: AnYujin
@@ -11,7 +12,7 @@ Solved after event. Saya akhirnya paham dengan soal ini setelah membaca [artikel
 
 Baiklah, jadi, pada soal ini, kita diberikan service berisi sebuah program dan source code dari program tersebut.
 
-##### server.py
+**server.py**
 
 ```py
 from secret import flag,KEY
@@ -152,15 +153,15 @@ while True:
 		print("input anda tidak valid!")
 ```
 
-Pada program, kita bisa melakukan registrasi, lalu meng-input username beserta password, lalu mendapatkan token yang dapat digunakan untuk login. 
+Pada program, kita bisa melakukan registrasi, lalu meng-input username beserta password, lalu mendapatkan token yang dapat digunakan untuk login.
 
-![Hasil run server](./img/runserver.png)
+![Hasil run server](../../../technofair-10/cry/pengen-merch-jkt/img/runserver.png)
 
 Setelah mengotak-atik source code, saya menemukan bahwa token ini adalah data json dari user (berisi username, password, dan saldo) yang di-enkripsi menggunakan AES-CBC. Berikut adalah contoh json-nya.
 
 `{"username": "aa", "password": "23ca472302f49b3ea5592b146a312da0", "saldo": "0.000"}`
 
-Dengan data di atas, tokennya adalah sebagai berikut (dibagi ke dalam block): 
+Dengan data di atas, tokennya adalah sebagai berikut (dibagi ke dalam block):
 
 ```
 61616161616161616161616161616161
@@ -174,11 +175,11 @@ c85dbe72d4c15eb712575d30fa6e96e3
 
 Untuk mendapatkan flag, kita harus memanipulasi tokennya sedemikian sehingga data pada saldo berubah dari 0 menjadi angka yang sebesar mungkin. Karena enkripsi token menggunakan AES-CBC, kita dapat melakukan `Bit Flipping Attack`. Pertama-tama, konsep enkripsi AES dengan mode CBC adalah sebagai berikut.
 
-![AES-CBC Encryption](./img/aescbcencryption.png)
+![AES-CBC Encryption](../../../technofair-10/cry/pengen-merch-jkt/img/aescbcencryption.png)
 
 Untuk penjelasan lengkap dan secara umum dapat dibaca pada [artikel](https://zhangzeyu2001.medium.com/attacking-cbc-mode-bit-flipping-7e0a1c185511) yang telah saya sebut di atas. Pada write-up ini, saya akan langsung membahas penerapannya pada soal. Apabila diagram di atas diterapkan pada token yang telah kita dapatkan, jadinya adalah seperti berikut.
 
-![aes cbc pada soal](./img/soalaescbc1.png)
+![aes cbc pada soal](../../../technofair-10/cry/pengen-merch-jkt/img/soalaescbc1.png)
 
 Btw karena kita ingin decrypt, jadi bacanya dari kanan bawah ;). Nah, sekarang, kita mau manipulasi block `plaintext4` dari yang semula bytes di ujungnya bernilai `0.0` jadi angka yang besar, misalnya `9e9`. Saat ini, keadaannya adalah seperti berikut.
 
@@ -240,19 +241,19 @@ c85dbe72d4c15eb712575d30fa6e96e3
 
 Sekarang, kita bisa masukkan token baru ini ke server, dan...
 
-![login try](./img/login1.png)
+![login try](../../../technofair-10/cry/pengen-merch-jkt/img/login1.png)
 
 ...tidak bisa. Masalahnya adalah, ketika kita memasukkan token untuk login, server akan melakukan dekripsi dan memeriksa terlebih dahulu apakah hasil dekripsinya merupakan json yang valid (silakan lihat kode `server.py` di atas pada definisi fungsi `login()`).
 
 Server memberitahukan pada kita "terdapat error pada data" dan memberikan string hex yang bisa di-decode.
 
-![error in hex](./img/errorhex1.png)
+![error in hex](../../../technofair-10/cry/pengen-merch-jkt/img/errorhex1.png)
 
 Di sini, terlihat bahwa block yang mengandung saldo telah berhasil kita manipulasi nilainya. Tetapi, block sebelumnya malah jadi rusak. Ini karena ciphertext dari block tersebut baru saja kita ganti.
 
-Untuk memperbaiki hal tersebut, caranya sebenarnya mirip dengan sebelumnya. Kita manipulasi saja lagi block ciphertext sebelumnya supaya block plaintext yang rusak kembali seperti semula. Untuk itu, kita bisa kembali merujuk ke diagram ini. 
+Untuk memperbaiki hal tersebut, caranya sebenarnya mirip dengan sebelumnya. Kita manipulasi saja lagi block ciphertext sebelumnya supaya block plaintext yang rusak kembali seperti semula. Untuk itu, kita bisa kembali merujuk ke diagram ini.
 
-![aes cbc pada soal](./img/soalaescbc2.png)
+![aes cbc pada soal](../../../technofair-10/cry/pengen-merch-jkt/img/soalaescbc2.png)
 
 ```
 misalkan pt3' --> plaintext yang rusak
@@ -303,8 +304,7 @@ c85dbe72d4c15eb712575d30fa6e96e3
 
 Sekarang, apabila kita memasukkan token tersebut ke server untuk login...
 
-![login try](./img/login2.png)
-![error in hex](./img/errorhex2.png)
+![login try](../../../technofair-10/cry/pengen-merch-jkt/img/login2.png) ![error in hex](../../../technofair-10/cry/pengen-merch-jkt/img/errorhex2.png)
 
 Masih error. Kali ini, block sebelumnya lagi-lah yang rusak. Dan sebenarnya, kita memang harus melakukan ini terus menerus sampai block paling awal. Caranya sama persis dengan yang sudah dibahas sebelumnya. Manipulasi ciphertext pada token, submit ke server, dapatkan plaintext barunya, buat token baru lagi, begitu seterusnya. Berikut ini adalah kodenya (btw, untuk kode solver lengkapnya, silakan cek file `solve.py`).
 
@@ -365,7 +365,6 @@ c85dbe72d4c15eb712575d30fa6e96e3
 
 Kali ini, proses login berhasil. Flag pun didapatkan :D.
 
-![login success](./img/loginsuccess.png)
-
+![login success](../../../technofair-10/cry/pengen-merch-jkt/img/loginsuccess.png)
 
 Flag: `TechnoFairCTF{B3n4r_1n1_W0t4ni5451_t3rSelubun9}`

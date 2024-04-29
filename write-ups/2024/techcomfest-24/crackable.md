@@ -1,13 +1,14 @@
-# crackable (100 pts)
+# crackable
 
 ### Deskripsi
+
 > Author: rui
 >
 > did you know that md5 is not supposed to be used? yep cause it's crackable
 >
 > nc ctf.ukmpcc.org 42069
 
-Kita diberikan source code dari server. Intinya server akan meminta dua buah string (hex) yang hasil MD5 nya sama sehingga membuktikan adanya collision pada MD5. 
+Kita diberikan source code dari server. Intinya server akan meminta dua buah string (hex) yang hasil MD5 nya sama sehingga membuktikan adanya collision pada MD5.
 
 ```py
 from Crypto.Util.number import *
@@ -33,8 +34,8 @@ c = pow(m, e, n)
 print(f"{n = }\n{u = }\n{c = }")
 ```
 
-Contoh collision MD5 paling sederhana ada di https://www.mscs.dal.ca/~selinger/md5collision/. Berikutnya tinggal submit saja ke server dan flag didapatkan.
+Contoh collision MD5 paling sederhana ada di https://www.mscs.dal.ca/\~selinger/md5collision/. Berikutnya tinggal submit saja ke server dan flag didapatkan.
 
-![](./img/getflag.png)
+![](../../../techcomfest-24/cry/crackable/img/getflag.png)
 
 Flag: `TCF2024{HALOOooOO👋_I'm_Emu🤩_Otori🤗_Emu😍_is_meaning😋_smile😁_wonderhoyyyy✨🎉🧨🎁🎢}`

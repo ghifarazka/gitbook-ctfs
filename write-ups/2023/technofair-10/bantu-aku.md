@@ -1,6 +1,7 @@
-# bantu aku mencari sebuah rahasia (Solved after event)
+# bantu aku mencari sebuah rahasia
 
 ### Deskripsi
+
 > Namaku Aseng, Aku sedang menulis sebuah file rahasia, namun dengan tiba-tiba hacker yang bernama Kori telah masuk ke system komputerku, tetapi aku berhasil menyelamatkan file ku, namun sekarang aku bingung dimana file dan kuncinya itu berada. Bisakah kamu membantu aku? :(
 >
 > Link Soal: Chall
@@ -113,11 +114,10 @@ Untuk mendekripsi `encryptedflag.txt`, saya meng-install `TrueCrypt` dan memasuk
 $ truecrypt encflag.txt 
 ```
 
-![](./img/enterpass.png)
-![](./img/filefound.png)
+![](../../../technofair-10/foren/bantu-aku/img/enterpass.png) ![](../../../technofair-10/foren/bantu-aku/img/filefound.png)
 
 Pada akhirnya, flag pun didapatkan.
 
-![](./img/getflag.png)
+![](../../../technofair-10/foren/bantu-aku/img/getflag.png)
 
 Flag: `TechnoFairCTF{Do_y0u_s33_m3?_hahaha}`

@@ -1,15 +1,8 @@
-# Freminhelp (Solved after event)
+# Freminhelp
 
 ### Deskripsi
-> My friend, Freminet, now need your assistance. He once left his lappy alone
-in a public area. Several months later, he discovered that a keylogger had
-been installed. Unfortunately, during the period when the keylogger was
-active, he typed the names of some crucial and confidential files. While
-Freminet successfully analyzed the situation and confirmed that the
-keylogger did not send any data elsewhere, he was able to delete the
-keylogger. He says that the keylogger created a custom key under
-Software\Microsoft\Windows\CurrentVersion\Explorer registry. However, he is
-now unable to locate the recorded keystrokes by the keylogger.
+
+> My friend, Freminet, now need your assistance. He once left his lappy alone in a public area. Several months later, he discovered that a keylogger had been installed. Unfortunately, during the period when the keylogger was active, he typed the names of some crucial and confidential files. While Freminet successfully analyzed the situation and confirmed that the keylogger did not send any data elsewhere, he was able to delete the keylogger. He says that the keylogger created a custom key under Software\Microsoft\Windows\CurrentVersion\Explorer registry. However, he is now unable to locate the recorded keystrokes by the keylogger.
 >
 > The flag is divided into 3 parts
 >
@@ -23,7 +16,7 @@ Pada chall ini kita diberikan sebuah memory dump. Menggunakan `imageinfo`, didap
 $ vol.py -f freminhelp.mem --profile=Win7SP1x86_23418 printkey -K "Software\Microsoft\Windows\CurrentVersion\Explorer"
 ```
 
-![](./img/keylogger.png)
+![](../../../ncw23/foren/freminhelp/img/keylogger.png)
 
 Di sini, terdapat key yang sus, yakni `Keylogger`. Untuk melihat value dari subkey tersebut, kita bisa menambahkan namanya pada path.
 
@@ -31,7 +24,7 @@ Di sini, terdapat key yang sus, yakni `Keylogger`. Untuk melihat value dari subk
 $ vol.py -f freminhelp.mem --profile=Win7SP1x86_23418 printkey -K "Software\Microsoft\Windows\CurrentVersion\Explorer\Keylogger"
 ```
 
-![](./img/value.png)
+![](../../../ncw23/foren/freminhelp/img/value.png)
 
 Awalnya saya bingung value ini harus diapakan, tapi berdasarkan deskripsi, string ini mungkin mengacu pada nama sebuah file. Oleh karena itu, kita bisa melakukan `filescan`.
 
@@ -92,6 +85,6 @@ file.None.0x8543a380.dat: JPEG image data, JFIF standard 1.01, resolution (DPI),
 
 Setelah itu kita buka saja ketiganya, dan... flag pun didapatkan :)
 
-![](./img/getflag.png)
+![](../../../ncw23/foren/freminhelp/img/getflag.png)
 
 Flag: `NCW23{for_art_is_never_perfect,_the_work_of_an_artist_is_never_done}`
