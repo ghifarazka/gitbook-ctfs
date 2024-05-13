@@ -1,7 +1,7 @@
 # GKSK#8 Osintathon
 
 {% hint style="info" %}
-Participated as **pura pura jago** along with [**kelapacuyy**](https://github.com/kelapacuyy/), ranked ??.
+Participated as **pura pura jago** along with [**kelapacuyy**](https://github.com/kelapacuyy/), ranked 6th.
 {% endhint %}
 
 Challenges from "My Oshi" and below are solved and written by kelapacuyy.&#x20;
