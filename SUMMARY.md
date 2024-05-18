@@ -4,8 +4,8 @@
 
 ## 🏁 Practice
 
-* [PortSwigger](practice/portswigger/README.md)
-  * [Path Traversal](practice/portswigger/path-traversal.md)
+* [PortSwigger All Labs](practice/portswigger-all-labs/README.md)
+  * [Path Traversal](practice/portswigger-all-labs/path-traversal.md)
 
 ## 🚩 Competitions
 
