@@ -144,7 +144,9 @@ print(bytes_to_long(secret))
 
 Dari sini, hasil secret-nya tinggal kita submit ke server. Flag pun didapatkan.
 
-![](../../../gemastik-23/cry/easy-aes/img/solve.png) ![](../../../gemastik-23/cry/easy-aes/img/getflag.png)
+![](../../../gemastik-23/cry/easy-aes/img/solve.png)
+
+![](../../../gemastik-23/cry/easy-aes/img/getflag.png)
 
 **Referensi** https://en.wikipedia.org/wiki/Block\_cipher\_mode\_of\_operation https://ctftime.org/writeup/22856#ofbuscated
 
