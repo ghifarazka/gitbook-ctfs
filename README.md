@@ -1,8 +1,8 @@
 # 👋 Hello!
 
-a repo where I post things I've learned from CTFs, in the form of write-ups.
+My name is k1nomi. This gitbook is where I post things I've learned from CTFs, in the form of writeups. I mostly do cryptography, forensics, and OSINT challenges. For international CTFs, the writeups are in English. For national CTFs, the writeups are in Indonesian.
 
-Here's a quick link to all of the write-ups. For international CTFs, the write-ups are in English. For national CTFs, the write-ups are in Indonesian.
+Here's a quick link to the write-ups based on tags, to help search relevant writeups faster. &#x20;
 
 ### Techcomfest 2024
 
