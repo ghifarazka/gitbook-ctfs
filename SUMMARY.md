@@ -7,6 +7,7 @@
   * [TryHackMe](practice/tryhackme/README.md)
     * [Basic Skills](practice/tryhackme/basic-skills.md)
     * [Linux](practice/tryhackme/linux.md)
+    * [Penetration Testing](practice/tryhackme/penetration-testing.md)
     * [OSINT](practice/tryhackme/osint.md)
 * [🚩 Competitions](competitions/README.md)
   * [2024](competitions/2024/README.md)
