@@ -2,6 +2,11 @@
 
 * [👋 Hello!](README.md)
 * [🏴 Practice](practice/README.md)
+  * [Cryptohack](practice/cryptohack/README.md)
+    * [Introduction](practice/cryptohack/introduction.md)
+    * [General](practice/cryptohack/general/README.md)
+      * [Encoding](practice/cryptohack/general/encoding.md)
+    * [Mathematics](practice/cryptohack/mathematics.md)
   * [PortSwigger](practice/portswigger/README.md)
     * [Path Traversal](practice/portswigger/path-traversal.md)
   * [TryHackMe](practice/tryhackme/README.md)
