@@ -2,7 +2,7 @@
 
 ### The Hacker Methodology
 
-_Summary:_ the steps in doing a pentesting&#x20;
+_Summary: the steps in doing a pentesting_&#x20;
 
 Room: [https://tryhackme.com/r/room/hackermethodology](https://tryhackme.com/r/room/hackermethodology)
 
