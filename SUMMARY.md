@@ -52,6 +52,8 @@
       * [crackable](competitions/2024/techcomfest-24/crackable.md)
       * [Kuli-ah forensik](competitions/2024/techcomfest-24/kuliah.md)
   * [2023](competitions/2023/README.md)
+    * [Cyber Jawara](competitions/2023/cyber-jawara/README.md)
+      * [daruma](competitions/2023/cyber-jawara/daruma.md)
     * [NCW](competitions/2023/ncw23/README.md)
       * [Freminhelp](competitions/2023/ncw23/freminhelp.md)
     * [Technofair 10](competitions/2023/technofair-10/README.md)
