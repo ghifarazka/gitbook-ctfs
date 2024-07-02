@@ -2,7 +2,7 @@
 
 My name is k1nomi. This gitbook is where I post things I've learned from CTFs, in the form of writeups. I mostly do cryptography, forensics, and OSINT challenges. For international CTFs, the writeups are in English. For national CTFs, the writeups are in Indonesian. There are also different sections to separate training grounds (practice) from competition. Here's a quick look on what's going one in this book.
 
-## [🏴](https://emojipedia.org/black-flag) Practice
+## 🏴 Practice
 
 | Lab                                  | Focus                                      |
 | ------------------------------------ | ------------------------------------------ |
