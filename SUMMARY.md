@@ -47,7 +47,7 @@
       * [Nostalgia Child](competitions/2024/gksk-8-osintathon/nostalgia-child.md)
       * [oldschool](competitions/2024/gksk-8-osintathon/oldschool.md)
       * [Summer Olympic](competitions/2024/gksk-8-osintathon/summer-olympic.md)
-    * [Techcomfest 24](competitions/2024/techcomfest-24/README.md)
+    * [Techcomfest](competitions/2024/techcomfest-24/README.md)
       * [pemanasan](competitions/2024/techcomfest-24/pemanasan.md)
       * [crackable](competitions/2024/techcomfest-24/crackable.md)
       * [Kuli-ah forensik](competitions/2024/techcomfest-24/kuliah.md)
@@ -76,3 +76,4 @@
     * [Gemastik](competitions/2022/gemastik.md)
     * [OSCCTF](competitions/2022/oscctf.md)
     * [ARA](competitions/2022/ara.md)
+* [🪦 Old Hello](old-hello.md)
