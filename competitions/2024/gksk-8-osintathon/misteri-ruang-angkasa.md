@@ -26,7 +26,7 @@ Nah dengan ini, kita bisa mengunjungi akun tersebut (yang rupanya ada di twitter
 
 File audio tersebut merupakan file SSTV. Untuk men-decodenya kembali menjadi gambar, saya menggunakan aplikasi Robot36 di android. Hasilnya adalah sebagai berikut.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `GKSK#8{b4D!_The_m0on_h4s_b33n_1nv4d3d!}`
 

@@ -24,6 +24,8 @@
       * [Marsha](competitions/2024/technofair-11/marsha.md)
       * [eftipi](competitions/2024/technofair-11/eftipi.md)
       * [kurang berarti](competitions/2024/technofair-11/kurang-berarti.md)
+      * [DUMPling](competitions/2024/technofair-11/dumpling.md)
+      * [Malicious](competitions/2024/technofair-11/malicious.md)
     * [GKSK#8 Osintathon](competitions/2024/gksk-8-osintathon/README.md)
       * [Sport Location](competitions/2024/gksk-8-osintathon/sport-location.md)
       * [Meklaren lu warna apa boss ?](competitions/2024/gksk-8-osintathon/meklaren-lu-warna-apa-boss.md)
