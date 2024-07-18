@@ -1,4 +1,4 @@
-# Sillyville Saga
+# Sillyville Saga (220 pts)
 
 ### Deskripsi
 

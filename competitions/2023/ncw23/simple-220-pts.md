@@ -1,4 +1,4 @@
-# Simple
+# Simple (220 pts)
 
 ### Deskripsi
 
