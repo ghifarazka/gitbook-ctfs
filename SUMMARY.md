@@ -77,7 +77,6 @@
       * [k-1](competitions/2023/gemastik-2023/k-1.md)
       * [Gen Z](competitions/2023/gemastik-2023/gen-z.md)
     * [TechnoFair 10](competitions/2023/technofair-10/README.md)
-      * [secret\_door](competitions/2023/technofair-10/secret\_door.md)
       * [RSA Bwang](competitions/2023/technofair-10/rsa-bwang.md)
       * [Marsah](competitions/2023/technofair-10/marsah.md)
       * [rapsodi](competitions/2023/technofair-10/rapsodi.md)

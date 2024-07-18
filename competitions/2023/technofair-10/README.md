@@ -4,10 +4,6 @@
 Participated as **insidious\_hex**
 {% endhint %}
 
-### Web Exploitation
-
-[secret\_door.md](secret\_door.md "mention")
-
 ### Crypto
 
 [rsa-bwang.md](rsa-bwang.md "mention")
