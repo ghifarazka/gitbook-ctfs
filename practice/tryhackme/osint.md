@@ -37,3 +37,33 @@ Room: [https://tryhackme.com/r/room/webosint](https://tryhackme.com/r/room/webos
 * common link between heat.net & purchase.org: in 2011-2012, their IP shares the same hosting (liquid web, l.l.c); around the same time as when the link is placed (according to wayback machine)
 * heat.net is likely a PBN (private blog network) to purchase.org; its sole purpose is to make purchase.org rank higher in search engine results
 * this is why heat.net doesn't seem "natural" to the eyes
+
+### Geolocating Images
+
+_Summary: how to know location from image_
+
+Room: [https://tryhackme.com/r/room/geolocatingimages](https://tryhackme.com/r/room/geolocatingimages)
+
+#### Reverse Image Search
+
+* Best reverse image search: Yandex > Bing > Google
+  * Yandex uses AI, it tries to get what's really in the picture
+  * Google finds exact match
+  * TinEye looks for exact duplicate
+* increase the image resolution, 200x200 and below is no hope
+* try mirrorring, cropping, rotating the photo
+* [blurring out](https://x.com/AricToler/status/1206679612543111169) the photo subject can let the search engine focus on finding the background
+
+#### Geolocating
+
+* rough estimate
+  * get text, landmarks, road layouts
+  * what is likely to be on the country/region
+    * climate
+    * popular brand of cars
+    * driving side
+    * etc
+  * IP/ASN number
+  * metadata/EXIF, social media geotagging
+* pinpointing
+  * building floor: [eye level and perspective](https://www.bellingcat.com/resources/2024/07/16/dubai-uae-cartel-organised-crime-geolocation-open-source-guide-technique-tools/)

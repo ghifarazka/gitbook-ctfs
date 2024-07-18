@@ -15,7 +15,7 @@ Room: [https://tryhackme.com/r/room/hackermethodology](https://tryhackme.com/r/r
 * enum and scan tools
   * dirbuster
   * enum4linux
-  * metasloit
+  * metasploit
   * burpsuite
 * covering tracks not needed for professionals; stop immidiately after priv. escalation
 * sample of pentesting report: [link](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report)
