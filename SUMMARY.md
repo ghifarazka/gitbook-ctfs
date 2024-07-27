@@ -22,6 +22,7 @@
       * [Kenangan](competitions/2024/technofair-11/kenangan.md)
       * [Xorban](competitions/2024/technofair-11/xorban.md)
       * [Marsha](competitions/2024/technofair-11/marsha.md)
+      * [Siap Tempur!!](competitions/2024/technofair-11/siap-tempur.md)
       * [eftipi](competitions/2024/technofair-11/eftipi.md)
       * [kurang berarti](competitions/2024/technofair-11/kurang-berarti.md)
       * [DUMPling](competitions/2024/technofair-11/dumpling.md)
