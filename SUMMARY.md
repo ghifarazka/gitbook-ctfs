@@ -11,6 +11,7 @@
   * [PortSwigger](practice/portswigger/README.md)
     * [Path Traversal](practice/portswigger/path-traversal.md)
     * [File Upload](practice/portswigger/file-upload.md)
+    * [SSRF Attacks](practice/portswigger/ssrf-attacks.md)
   * [TryHackMe](practice/tryhackme/README.md)
     * [Basic Skills](practice/tryhackme/basic-skills.md)
     * [Linux](practice/tryhackme/linux.md)
