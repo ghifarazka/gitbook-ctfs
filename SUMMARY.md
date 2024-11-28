@@ -10,6 +10,7 @@
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
   * [PortSwigger](practice/portswigger/README.md)
     * [Path Traversal](practice/portswigger/path-traversal.md)
+    * [File Upload](practice/portswigger/file-upload.md)
   * [TryHackMe](practice/tryhackme/README.md)
     * [Basic Skills](practice/tryhackme/basic-skills.md)
     * [Linux](practice/tryhackme/linux.md)
