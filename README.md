@@ -14,11 +14,11 @@ My name is k1nomi. This gitbook is where I post things I've learned from CTFs, i
 
 ### 2024
 
-| Competition                                                                 | Solves\*          | Achievement |
-| --------------------------------------------------------------------------- | ----------------- | ----------- |
-| [Technofair 11](competitions/2024/technofair-11/)                           | 3 crypto, 2 foren | \[ongoing]  |
-| [GKSK#8 Osintathon](https://app.gitbook.com/u/GKz5ZAXoePgXiEbZQ4lU1xvKp142) | 12 osint          | 6th place   |
-| [Techcomfest](competitions/2024/techcomfest-24/)                            | 1 crypto, 2 foren | N/A         |
+| Competition                                               | Solves\*          | Achievement |
+| --------------------------------------------------------- | ----------------- | ----------- |
+| [Technofair 11](competitions/2024/technofair-11/)         | 3 crypto, 2 foren | \[ongoing]  |
+| [GKSK#8 Osintathon](competitions/2024/gksk-8-osintathon/) | 12 osint          | 6th place   |
+| [Techcomfest](competitions/2024/techcomfest-24/)          | 1 crypto, 2 foren | N/A         |
 
 ### 2023
 
