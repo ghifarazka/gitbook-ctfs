@@ -20,6 +20,8 @@
   * [2024](competitions/2024/README.md)
     * [Cyber Jawara International](competitions/2024/cyber-jawara-international/README.md)
       * [Stone Game (100 pts)](competitions/2024/cyber-jawara-international/stone-game-100-pts.md)
+      * [prepare the tools (176 pts)](competitions/2024/cyber-jawara-international/prepare-the-tools-176-pts.md)
+      * [Persona (484 pts)](competitions/2024/cyber-jawara-international/persona-484-pts.md)
     * [OSMOSIS Precon CTF](competitions/2024/osmosis-precon-ctf/README.md)
       * [1 The art of espionage](competitions/2024/osmosis-precon-ctf/1-the-art-of-espionage.md)
       * [# 2 The Hack](competitions/2024/osmosis-precon-ctf/2-the-hack.md)
