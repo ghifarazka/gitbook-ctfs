@@ -22,7 +22,7 @@ My name is k1nomi. This gitbook is where I post things I've learned from CTFs, i
 
 ### 2023
 
-| Competition       | Solves   | Achievement |
+| Competition       | Solves\* | Achievement |
 | ----------------- | -------- | ----------- |
 | NCW               |          | Finalist    |
 | Cyber Jawara      | 1 crypto | N/A         |
@@ -32,4 +32,4 @@ My name is k1nomi. This gitbook is where I post things I've learned from CTFs, i
 | Compfest          |          | N/A         |
 | Gemastik          |          | Top 20      |
 
-\*) not counting teammate, counting "solved after event" challs
+\*) not counting teammate, while counting "solved after event" challs
