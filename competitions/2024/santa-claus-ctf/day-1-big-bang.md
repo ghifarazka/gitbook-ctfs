@@ -1,6 +1,6 @@
 # Day 1 - Big Bang
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Question: What is the name of the outlet?
 

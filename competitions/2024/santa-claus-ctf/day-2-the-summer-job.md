@@ -4,7 +4,7 @@
 
 Question: What is the name of the company the thief worked for?
 
-#### Solutions
+### Solution
 
 Now, we are starting to look at the letters found from the previous challenge. An important note to keep in mind throughout this CTF is that we are solving these challenges as if we actually live by Santa himself, inside the Santa Claus Office in Finland. Therefore, for the next few challenges we'll have to utilize the indoor street view of the Santa Claus Office we used before. Moreover, we have to assume that this investigation is happening real time, during December of 2024 (this assumption would be useful later).
 
