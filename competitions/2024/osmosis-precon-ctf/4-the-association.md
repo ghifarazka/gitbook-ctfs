@@ -6,7 +6,7 @@
 
 I assumed that OSMOSIS is an acronym/initialism, so it stands for something. I tried google dorking with the keyword below and found a website:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 According to the website, the flag should be "Online Social Media & Open Source Investigation Summit". But it was incorrect. I tried to ask via ticket, and it's said that my answer is almost correct, and that the correct answer turned out to use the word "Investigators", not "Investigation".
 
