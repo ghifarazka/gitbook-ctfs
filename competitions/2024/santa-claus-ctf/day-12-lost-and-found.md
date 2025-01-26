@@ -8,10 +8,10 @@ Question: The thief is not only pretending to be Santa Claus, but also quoting w
 
 In the boarding pass picture, there is a barcode. We can read that barcode using Google Lens.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 It seems that The Thief had left the airport and is now somewhere warmer than Finland. Anyways, The Thief quoted "Hasta la vista, baby!" which was first coined by the Terminator.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `Terminator`

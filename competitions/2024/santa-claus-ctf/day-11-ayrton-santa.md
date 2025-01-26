@@ -10,14 +10,14 @@ From the data, the only interesting thing we can look at is the email. If we hav
 
 Here's what Epieos found.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 It might be that The Thief once reviewed the place where he learned how to drive the sleigh on Google Maps, or that he put the place on Google Calendar to schedule his training. In this case, the latter is true.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can search for that address on Google and get the name of the place.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `Wild About Lapland`

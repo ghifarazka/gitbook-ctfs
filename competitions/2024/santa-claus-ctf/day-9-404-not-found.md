@@ -12,6 +12,6 @@ This is a pretty niche thing. But there is a website that assigns every single p
 
 Typing "luggage.octane.width" into the website gave us this. This is Area 51.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `Area 51`
