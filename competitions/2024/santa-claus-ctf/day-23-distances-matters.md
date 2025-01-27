@@ -16,9 +16,10 @@ We can calculate using hands, or use [this tool](https://www.mapdevelopers.com/d
 
 <figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
+The circles intersected somewhere in Mexico. Zooming in, we see that the intersection is not actually very precise (btw you can visit the map [here](https://www.mapdevelopers.com/draw-circle-tool.php?circles=%5B%5B3685000%2C40.7127281%2C-74.0060152%2C%22%23AAAAAA%22%2C%22%23000000%22%2C0.4%5D%2C%5B9528000%2C48.8534951%2C2.3483915%2C%22%23AAAAAA%22%2C%22%23000000%22%2C0.4%5D%2C%5B12659000%2C-33.8698439%2C151.2082848%2C%22%23AAAAAA%22%2C%22%23000000%22%2C0.4%5D%5D)).&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+Regardless, we roughly got The Thief's "paradise on earth". It's the nearby island of "Isla Ixtapa". You can Google the island to confirm that it is indeed a tourist place.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
-
+Flag: `Isla Ixtapa`
