@@ -58,3 +58,9 @@ Cancun
 Isla Ixtapa
 Big Red Joulupukki
 ```
+
+## Complete Day 1-24 Chall Questions
+
+Found from Day 24 Challenge: [https://github.com/bknotbmoka1337/CTF-Concept](https://github.com/bknotbmoka1337/CTF-Concept)
+
+{% file src="../../../.gitbook/assets/Santa_CTF_Concept.pdf" %}

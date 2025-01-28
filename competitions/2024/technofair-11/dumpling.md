@@ -10,11 +10,11 @@
 
 Kita diberikan file memory dump bernama `chall.raw`. Untuk menganalisis file memory dump, kita bisa menggunakan tool `Volatility`. Di waktu kompetisi, saya tidak berhasil melakukan dumpfiles sebagaimana pada soal [tahun lalu](../../2023/technofair-10/bantu-aku.md) menggunakan volatility 2, untuk alasan yang tidak saya ketahui.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Setelah kompetisi selesai, saya mendapatkan info cara solve yang menggunakan volatility 3. Jadi pertama-tama, kita menggunakan command berikut: `vol -f chall.raw windows.filescan | grep -Fi "flag"`.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Jika membuka`clue.txt` menggunakan dumpfiles, kita akan diarahkan untuk membuka `flag1.png` dan `flag2.png` (kita telah menemukan kedua file tersebut di atas).
 
