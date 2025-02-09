@@ -14,7 +14,7 @@ Kita diberikan file memory dump bernama `chall.raw`. Untuk menganalisis file mem
 
 Setelah kompetisi selesai, saya mendapatkan info cara solve yang menggunakan volatility 3. Jadi pertama-tama, kita menggunakan command berikut: `vol -f chall.raw windows.filescan | grep -Fi "flag"`.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Jika membuka`clue.txt` menggunakan dumpfiles, kita akan diarahkan untuk membuka `flag1.png` dan `flag2.png` (kita telah menemukan kedua file tersebut di atas).
 

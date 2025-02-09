@@ -10,7 +10,7 @@ We can do some reverse image search to get the location of where it was taken. A
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Many results point to "Oulu Airport". We can use Google Street View to try and confirm it. Indeed it is.
 

@@ -12,7 +12,7 @@ As a context, there are plenty of photos featuring Santa and his visitors hanged
 
 Following along, we'll eventually arrive at the stairs that takes us to the second floor. Take it, and we see a bunch of photos.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 One picture stands out among the others, as it's the only one featuring so many children, and with the children's group name written as well.
 
