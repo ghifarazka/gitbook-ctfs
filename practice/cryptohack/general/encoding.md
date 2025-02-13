@@ -38,10 +38,10 @@ ct = "72bca9b68fc16ac7beeb8f849dca1d8a783e8acf9679bf9269f7bf"
 print(base64.b64encode(bytes.fromhex(ct)))
 
 # b'crypto/Base+64+Encoding+is+Web+Safe/'
-# b64 encode gives byte output, but b64encode can take both byte and string as input
+# b64encode gives byte output, and b64encode can only take byte as input
 ```
 
-Flag: `b'crypto/Base+64+Encoding+is+Web+Safe'`
+Flag: `crypto/Base+64+Encoding+is+Web+Safe`
 
 ### Bytes and Big Integers
 
