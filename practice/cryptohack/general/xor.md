@@ -1,6 +1,6 @@
 # XOR
 
-### ![](../../../.gitbook/assets/key.png)XOR Starter
+### XOR Starter
 
 Make a script as told.
 
