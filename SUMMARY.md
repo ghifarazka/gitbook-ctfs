@@ -7,6 +7,7 @@
     * [General](practice/cryptohack/general/README.md)
       * [Encoding](practice/cryptohack/general/encoding.md)
       * [XOR](practice/cryptohack/general/xor.md)
+      * [Mathematics](practice/cryptohack/general/mathematics.md)
     * [Mathematics](practice/cryptohack/mathematics/README.md)
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
   * [PortSwigger](practice/portswigger/README.md)
