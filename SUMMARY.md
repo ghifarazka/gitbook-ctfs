@@ -9,6 +9,8 @@
       * [XOR](practice/cryptohack/general/xor.md)
       * [Mathematics](practice/cryptohack/general/mathematics.md)
       * [Data Formats](practice/cryptohack/general/data-formats.md)
+    * [Symmetric Ciphers](practice/cryptohack/symmetric-ciphers/README.md)
+      * [How AES Works](practice/cryptohack/symmetric-ciphers/how-aes-works.md)
     * [Mathematics](practice/cryptohack/mathematics/README.md)
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
   * [PortSwigger](practice/portswigger/README.md)
