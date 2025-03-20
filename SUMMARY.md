@@ -11,6 +11,7 @@
       * [Data Formats](practice/cryptohack/general/data-formats.md)
     * [Symmetric Ciphers](practice/cryptohack/symmetric-ciphers/README.md)
       * [How AES Works](practice/cryptohack/symmetric-ciphers/how-aes-works.md)
+      * [Symmetric Starter](practice/cryptohack/symmetric-ciphers/symmetric-starter.md)
     * [Mathematics](practice/cryptohack/mathematics/README.md)
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
   * [PortSwigger](practice/portswigger/README.md)
