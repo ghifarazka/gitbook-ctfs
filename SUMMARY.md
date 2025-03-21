@@ -12,6 +12,7 @@
     * [Symmetric Ciphers](practice/cryptohack/symmetric-ciphers/README.md)
       * [How AES Works](practice/cryptohack/symmetric-ciphers/how-aes-works.md)
       * [Symmetric Starter](practice/cryptohack/symmetric-ciphers/symmetric-starter.md)
+      * [Block Ciphers 1](practice/cryptohack/symmetric-ciphers/block-ciphers-1.md)
     * [Mathematics](practice/cryptohack/mathematics/README.md)
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
   * [PortSwigger](practice/portswigger/README.md)
