@@ -1,0 +1,14 @@
+# OSINT Combine
+
+{% hint style="info" %}
+Participated as **k1nomi**, finished **4th** and solved all of the challenges
+{% endhint %}
+
+Throughout April 2025, **OSINT Combine** held a [CTF competition](https://osintcombine.ctfd.io/challenges) themed around wildlife. The CTF consisted of 20 challenges, with each covering various topics ranging from geolocation to bird identification.
+
+### Challenges
+
+<table><thead><tr><th width="298">Name</th><th>Topic</th></tr></thead><tbody><tr><td><a data-mention href="getting-started-100-pts.md">getting-started-100-pts.md</a></td><td>Reverse WHOIS lookup, Historical WHOIS data</td></tr><tr><td><a data-mention href="proper-poppy-100-pts.md">proper-poppy-100-pts.md</a></td><td>Reverse Image Search</td></tr><tr><td><a data-mention href="legendary-beasts-200-pts.md">legendary-beasts-200-pts.md</a></td><td>Google Dorking</td></tr><tr><td><a data-mention href="shadow-fleet-200-pts.md">shadow-fleet-200-pts.md</a></td><td>Google Dorking, Vessel information</td></tr><tr><td><a data-mention href="proper-poppy-ii-200-pts.md">proper-poppy-ii-200-pts.md</a></td><td>Google Scholar</td></tr><tr><td><a data-mention href="not-so-smug-smuggler-200-pts.md">not-so-smug-smuggler-200-pts.md</a></td><td>Google Search + Analysis</td></tr><tr><td><a data-mention href="icy-200-pts.md">icy-200-pts.md</a></td><td>Google Search + Analysis</td></tr><tr><td><a data-mention href="forest-pals-200-pts.md">forest-pals-200-pts.md</a></td><td>Wayback Machine</td></tr><tr><td><a data-mention href="safari-time-ii-200-pts.md">safari-time-ii-200-pts.md</a></td><td>Google Reviews</td></tr><tr><td><a data-mention href="sneaky-200-pts.md">sneaky-200-pts.md</a></td><td>Google Dorking, Instagram</td></tr><tr><td><a data-mention href="hello-friend-300-pts.md">hello-friend-300-pts.md</a></td><td>Google Dorking</td></tr><tr><td><a data-mention href="busy-as-a-300-pts.md">busy-as-a-300-pts.md</a></td><td>Reverse Image Search, BlueSky</td></tr><tr><td><a data-mention href="get-rotated-300-pts.md">get-rotated-300-pts.md</a></td><td>Animal tracking</td></tr><tr><td><a data-mention href="high-seas-300-pts.md">high-seas-300-pts.md</a></td><td>Vessel information</td></tr><tr><td><a data-mention href="nocturnal-300-pts.md">nocturnal-300-pts.md</a></td><td>Image manipulation, Reverese Image Search</td></tr><tr><td><a data-mention href="safari-time-400-pts.md">safari-time-400-pts.md</a></td><td>Reverse Image Search, Geolocation</td></tr><tr><td><a data-mention href="peak-weather-400-pts.md">peak-weather-400-pts.md</a></td><td>Geolocation, OpenStreetMap, CCTV</td></tr><tr><td><a data-mention href="singsong-400-pts.md">singsong-400-pts.md</a></td><td>Bird identification</td></tr><tr><td><a data-mention href="falling-fell-500-pts.md">falling-fell-500-pts.md</a></td><td>OpenStreetMap</td></tr><tr><td><a data-mention href="kitty-cats-500-pts.md">kitty-cats-500-pts.md</a></td><td>Metadata, Steganography</td></tr></tbody></table>
+
+
+
