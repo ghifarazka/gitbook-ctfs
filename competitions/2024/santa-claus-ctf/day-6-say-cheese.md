@@ -10,7 +10,7 @@ Right now, Santa immediately blames someone whom he knew had photographed him th
 
 Regardless, we can go to "Finnish National Circus Social Media" and look for photos taken in December 2021 (three years ago). After some [Googling](https://sirkusfinlandia.fi/en/home/), we know that the circus has a Facebook, Instagram, and YouTube. Searching through Instagram, we finally found [this](https://www.instagram.com/p/CX08mh9NtnA/) image of Santa and Rudolph posted in 23 December 2021.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The name of the photographer is clearly visible in the bottom left corner.
 

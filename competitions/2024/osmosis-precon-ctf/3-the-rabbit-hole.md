@@ -6,7 +6,7 @@
 
 The question is "the creator of Majestic 5". We can search that on Google:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Turns out that "RAKIA" is correct. Again, we can conclude that the link provided in the description is a red herring.
 

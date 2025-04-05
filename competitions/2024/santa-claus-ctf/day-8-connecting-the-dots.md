@@ -8,7 +8,7 @@ Question: What is the stage name of the thief?
 
 We can directly search #CircusSantaCrusher in Google and get the Thief's X/Twitter account (The X in X-Mas might be a clue that the hashtag belongs to X and not other social media sites).
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can also search it inside X itself.
 
