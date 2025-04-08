@@ -1,7 +1,7 @@
 # 🇮🇩 RECURSION
 
 {% hint style="info" %}
-Participated as **insidious\_hex**.
+Participated as **insidious\_hex**. Finished **17th**. First blood on **2** challenges.
 {% endhint %}
 
 ### Warm-Up
