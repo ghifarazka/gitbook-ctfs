@@ -1,4 +1,4 @@
-# OSMOSIS Precon CTF
+# 🌐 OSMOSIS Precon CTF
 
 {% hint style="info" %}
 Participated as **k1nomi**. Finished 12th.

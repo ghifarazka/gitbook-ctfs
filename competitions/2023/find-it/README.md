@@ -1,4 +1,4 @@
-# Find IT!
+# 🇮🇩 Find IT!
 
 {% hint style="info" %}
 Participated as **insidious\_hex**, got into the finals

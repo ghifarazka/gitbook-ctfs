@@ -1,4 +1,4 @@
-# Gemastik
+# 🇮🇩 Gemastik
 
 {% hint style="info" %}
 Participated as **insidious\_hex**, representing **Institut Pertanian Bogor**

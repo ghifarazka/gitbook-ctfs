@@ -1,4 +1,4 @@
-# SlashRoot7
+# 🇮🇩 SlashRoot 7
 
 {% hint style="info" %}
 Participated as **insidious\_hex**

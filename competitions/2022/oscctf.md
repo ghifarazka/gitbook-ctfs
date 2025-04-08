@@ -2,7 +2,7 @@
 description: participated as insidious_hex
 ---
 
-# OSCCTF
+# 🇮🇩 OSCCTF
 
 ## Cryptography
 

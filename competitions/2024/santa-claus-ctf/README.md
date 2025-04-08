@@ -1,4 +1,4 @@
-# Santa Claus CTF
+# 🌐 Santa Claus CTF
 
 {% hint style="info" %}
 Participated as **k1nomi**, finished **61st**

@@ -1,4 +1,4 @@
-# TechnoFair 10
+# 🇮🇩 TechnoFair 10
 
 {% hint style="info" %}
 Participated as **insidious\_hex**

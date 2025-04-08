@@ -1,4 +1,4 @@
-# COMPFEST 16
+# 🇮🇩 COMPFEST 16
 
 {% hint style="info" %}
 Participated as **Shin-Kawasaki**.

@@ -1,4 +1,4 @@
-# Cyber Jawara International
+# 🌐 Cyber Jawara International
 
 {% hint style="info" %}
 Participated as **k1nomi** on the team **SSQ ID**.

@@ -1,4 +1,4 @@
-# GKSK#8 Osintathon
+# 🇮🇩 GKSK#8 Osintathon
 
 {% hint style="info" %}
 Participated as **pura pura jago** along with [**kelapacuyy**](https://github.com/kelapacuyy/), ranked 6th.

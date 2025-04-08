@@ -1,4 +1,4 @@
-# Hology6
+# 🇮🇩 Hology 6
 
 {% hint style="info" %}
 Participated as **teori ganti nama tim**
@@ -58,9 +58,9 @@ Sesuai clue pada deskripsi, string ini menggunakan caesar cipher dengan shift se
 
 Pada link tersebut, kita diarahkan pada sebuah google drive berisi gambar `original_logo.jpg` yang tampaknya sama persis dengan `poster.jpg`.
 
-| poster.jpg                                                                                                                                                                                                                                     | original\_logo.jpg                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXcjGZKNZ33G8eC5IgEL\_2vV2UitxPd5bVTA9P7FFmnvauvjeoLdaknnmv0qS1YdGzgoxRGb2VB07H\_WlR-BL7sKbjNk5-2slTTboDNIYs\_XOpSem3ZoyG0G8Cc4cC0wypF6qYzsh3WZahpATxud135r5Ho?key=j25-8FRNm3AiBoMACfBbTw) | ![](https://lh7-us.googleusercontent.com/docsz/AD\_4nXcjGZKNZ33G8eC5IgEL\_2vV2UitxPd5bVTA9P7FFmnvauvjeoLdaknnmv0qS1YdGzgoxRGb2VB07H\_WlR-BL7sKbjNk5-2slTTboDNIYs\_XOpSem3ZoyG0G8Cc4cC0wypF6qYzsh3WZahpATxud135r5Ho?key=j25-8FRNm3AiBoMACfBbTw) |
+| poster.jpg                                                                                                                                                                                                                                 | original\_logo.jpg                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcjGZKNZ33G8eC5IgEL_2vV2UitxPd5bVTA9P7FFmnvauvjeoLdaknnmv0qS1YdGzgoxRGb2VB07H_WlR-BL7sKbjNk5-2slTTboDNIYs_XOpSem3ZoyG0G8Cc4cC0wypF6qYzsh3WZahpATxud135r5Ho?key=j25-8FRNm3AiBoMACfBbTw) | ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcjGZKNZ33G8eC5IgEL_2vV2UitxPd5bVTA9P7FFmnvauvjeoLdaknnmv0qS1YdGzgoxRGb2VB07H_WlR-BL7sKbjNk5-2slTTboDNIYs_XOpSem3ZoyG0G8Cc4cC0wypF6qYzsh3WZahpATxud135r5Ho?key=j25-8FRNm3AiBoMACfBbTw) |
 
 Saat mencari-cari di mana letak perbedaan kedua gambar, saya mencoba membandingkan value hex dari kedua gambar, dan akhirnya menemukan perbedaan. Terlihat di bawah ini bahwa pada salah satu byte, yang aslinya `00` malah menjadi `48`.\
 

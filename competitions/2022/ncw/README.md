@@ -2,7 +2,7 @@
 description: participated as insidious_hex, got into the final stage
 ---
 
-# NCW
+# 🇮🇩 NCW
 
 ## Cryptography
 

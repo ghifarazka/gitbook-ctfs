@@ -1,4 +1,4 @@
-# OSINT Combine
+# 🌐 OSINT Combine
 
 {% hint style="info" %}
 Participated as **k1nomi**, finished **4th** and solved all of the challenges
