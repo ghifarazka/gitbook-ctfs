@@ -4,10 +4,10 @@
 
 Just like #6, this one requires to be an OSMOSIS member to solve. The forum post that the description is referring to is easy to find, as it's the newest one posted as per the ctf event.
 
-<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here's kiberVolk's response:
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `flag{Lord Voldemort}`

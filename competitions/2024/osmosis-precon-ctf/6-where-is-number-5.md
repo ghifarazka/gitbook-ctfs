@@ -6,14 +6,14 @@
 
 This is a challenge that requires you to become an OSMOSIS member, as the answer can be found in member-only section of [osmosisinstitute.org](https://osmosisinstitute.org). The description mentions "group", which is a thing in the osmosis website (a member can join multiple groups).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 That means it is implied that "kiberVolk" is an OSMOSIS member, perhaps it's his username. In the website, we can access anyone's profile by entering this URL: [https://osmosisinstitute.org/members/username/](https://osmosisinstitute.org/members/will_mechler/). We can just input "kiberVolk" and get this:
 
-<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can see the group he's in here:
 
-<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `flag{Capture the Flag}`

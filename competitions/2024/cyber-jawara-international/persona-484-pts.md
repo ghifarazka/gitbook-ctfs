@@ -8,7 +8,7 @@
 
 We are given a website that looks like this. Our first information is that the person's name is Edina Salmin, that he's a programmer, and that he has this website and a Facebook profile.
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Whenever we're given a website, we can take a look at a lot of things:
 
@@ -18,15 +18,15 @@ Whenever we're given a website, we can take a look at a lot of things:
 
 Inspecting the website give us the first part of the flag.
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can try adding "/admin" (or any common routing) at the URL just to check how the website will response, and we'll get this.
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 The website was probably made using Github Pages. That means that the website most probably had the original URL of something like `username.github.io`, where the username is the website owner's github username. We can check if the current domain of `persona.chall.cyberjawara.pro` is an alias to the website's original URL using a CNAME lookup tool like [https://mxtoolbox.com/CNAMELookup.aspx](https://mxtoolbox.com/CNAMELookup.aspx).
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now we know that this person has a GitHub account at [https://github.com/edsalmin](https://github.com/edsalmin).
 

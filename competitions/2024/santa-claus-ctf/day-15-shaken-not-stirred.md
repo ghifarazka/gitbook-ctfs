@@ -10,7 +10,7 @@ This challenge confused me at first, but it just showed me the importance of kee
 
 Remember how we found The Thief's X account? He just posted a new tweet.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="372"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt="" width="372"><figcaption></figcaption></figure>
 
 That's it. That's our answer.
 

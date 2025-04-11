@@ -8,7 +8,7 @@ This challenge has a followup challenge: [legendary-beasts-200-pts.md](legendary
 
 From the description, "registered" likely means that the person in question is the registrar of the website. Usually, one could use `whois domain.com` to get such information. However, we are provided with the registrar name, instead of the domain. Therefore, we have to use a reversal tool such as [https://viewdns.info/reversewhois/](https://viewdns.info/reversewhois/).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 Inputting "Twan Teunissen" into the website, we get [rewildingeurope.com](https://rewildingeurope.com/), which matches the "wild website" description.&#x20;
 

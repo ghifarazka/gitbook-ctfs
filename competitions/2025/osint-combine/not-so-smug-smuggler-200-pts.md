@@ -8,6 +8,6 @@ Following the description, we can Google "A North Korean intelligence official i
 
 The article mentions "Yi Kang Dae" as the North Korean intelligence official involved.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `yi kang dae`

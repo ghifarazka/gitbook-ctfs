@@ -12,6 +12,6 @@ We are provided with an image of a flower.
 
 Doing a simple reverse image search, we find [this](https://biodiversity.bt/group/Royal_Manas_National_Park/observation/show/7352) website, which tells us that the photo was taken in Bhutan.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: `bhutan`

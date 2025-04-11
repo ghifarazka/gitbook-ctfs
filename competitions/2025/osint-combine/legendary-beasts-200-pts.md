@@ -8,9 +8,9 @@ This challenge has a prerequisite challenge: [getting-started-100-pts.md](gettin
 
 Following the description, we can use some Google dorking operators and search for `site:reddit.com intext:rewildingeurope.com "legendary"` . As the result, we get this post.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 The said legendary animal is aurochs.
 

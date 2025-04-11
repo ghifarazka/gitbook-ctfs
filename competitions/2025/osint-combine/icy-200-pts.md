@@ -6,7 +6,7 @@
 
 The Tiktok post where the video resides mentions that the phenomenon is called "Ice Tsunami". Moreover, watching the video, we could observe some Cyrillic text, indicating that the video was (most likely) taken in Russia. Therefore, we could try searching "ice tsunami in Russia" in Google.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here, we see that the exact same video was uploaded on Facebook and YouTube as well. Interestingly, they mentioned the name of the river where the phenomenon took place: the Yenisei River in Russia.
 
