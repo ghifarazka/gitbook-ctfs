@@ -15,6 +15,7 @@
       * [Block Ciphers 1](practice/cryptohack/symmetric-ciphers/block-ciphers-1.md)
       * [Stream Ciphers](practice/cryptohack/symmetric-ciphers/stream-ciphers.md)
     * [Mathematics](practice/cryptohack/mathematics/README.md)
+      * [Modular Math](practice/cryptohack/mathematics/modular-math.md)
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
   * [🌐 PortSwigger](practice/portswigger/README.md)
     * [Path Traversal](practice/portswigger/path-traversal.md)
