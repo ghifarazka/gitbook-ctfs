@@ -17,6 +17,8 @@
     * [Mathematics](practice/cryptohack/mathematics/README.md)
       * [Modular Math](practice/cryptohack/mathematics/modular-math.md)
       * [Lattices](practice/cryptohack/mathematics/lattices.md)
+    * [RSA](practice/cryptohack/rsa/README.md)
+      * [Starter](practice/cryptohack/rsa/starter.md)
   * [🌐 PortSwigger](practice/portswigger/README.md)
     * [Path Traversal](practice/portswigger/path-traversal.md)
     * [File Upload](practice/portswigger/file-upload.md)
