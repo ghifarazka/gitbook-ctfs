@@ -20,6 +20,7 @@
     * [RSA](practice/cryptohack/rsa/README.md)
       * [Starter](practice/cryptohack/rsa/starter.md)
       * [Primes Part 1](practice/cryptohack/rsa/primes-part-1.md)
+      * [Public Exponent](practice/cryptohack/rsa/public-exponent.md)
   * [🌐 PortSwigger](practice/portswigger/README.md)
     * [Path Traversal](practice/portswigger/path-traversal.md)
     * [File Upload](practice/portswigger/file-upload.md)
