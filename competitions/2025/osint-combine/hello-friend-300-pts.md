@@ -8,7 +8,7 @@ We could start by searching `"diego_caballero" naturalist` on Google. From here,
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-In his profile, we could find an observation that was uploaded on 10 December 2024.
+In his profile, we could find an observation that was uploaded on **10 December 2024**.
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

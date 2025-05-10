@@ -6,7 +6,7 @@
 
 ### Solution
 
-To solve this challenge, I used [OverpassTurbo](https://overpass-turbo.eu/). Following the description, I ran this code. It searches for instances of "fell" in Norway that has an attribute called "name".
+To solve this challenge, I used [OverpassTurbo](https://overpass-turbo.eu/). Following the description, I ran the code attached below. It searches for instances of "fell" in Norway that has an attribute called "name".
 
 ```sql
 [out:json];

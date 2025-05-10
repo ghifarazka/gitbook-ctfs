@@ -8,7 +8,7 @@ My first approach on this was to find a shark named "Rocket", but it led to many
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-I immediately searched for a shark named Rocket and found this.
+I immediately searched for a shark named **Rocket** and found this.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 

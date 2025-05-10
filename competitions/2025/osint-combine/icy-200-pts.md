@@ -8,6 +8,6 @@ The Tiktok post where the video resides mentions that the phenomenon is called "
 
 <figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
-Here, we see that the exact same video was uploaded on Facebook and YouTube as well. Interestingly, they mentioned the name of the river where the phenomenon took place: the Yenisei River in Russia.
+Here, we see that the exact same video was uploaded on Facebook and YouTube as well. Interestingly, they mentioned the name of the river where the phenomenon took place: the **Yenisei River** in Russia.
 
 Flag: `yenisei`

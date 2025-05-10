@@ -8,7 +8,7 @@ We are given this image.
 
 <figure><img src="../../../.gitbook/assets/peakweather.png" alt=""><figcaption></figcaption></figure>
 
-At first, I tried to do reverse image search on the image and look for similar mountain-shapes. I came across this [page](https://www.southernalpsphotography.com/Tramping/Aspiring-Region/Dragonfly-Peak) which indicates that the mountain name is Mount Aspiring, so the location of the camera should be close to that.
+At first, I tried to do reverse image search on the image and look for similar mountain-shapes. I came across this [page](https://www.southernalpsphotography.com/Tramping/Aspiring-Region/Dragonfly-Peak) which indicates that the mountain name is **Mount Aspiring**, so the location of the camera should be close to that.
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 

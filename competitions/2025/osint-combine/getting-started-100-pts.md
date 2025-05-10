@@ -12,6 +12,6 @@ From the description, "registered" likely means that the person in question is t
 
 Inputting "Twan Teunissen" into the website, we get [rewildingeurope.com](https://rewildingeurope.com/), which matches the "wild website" description.&#x20;
 
-We could further verify this by utilizing a historical whois tool, which would give us a list of current and former registrar of a domain. For this, tools such as [https://whoisfreaks.com/tools/whois/history/lookup](https://whoisfreaks.com/tools/whois/history/lookup) can be used.
+We could further verify this by utilizing a **historical whois** tool, which would give us a list of current and former registrar of a domain. For this, tools such as [https://whoisfreaks.com/tools/whois/history/lookup](https://whoisfreaks.com/tools/whois/history/lookup) can be used.
 
 Flag: `rewildingeurope.com`

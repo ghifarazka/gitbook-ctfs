@@ -8,7 +8,7 @@ This challenge is similar to [shadow-fleet-200-pts.md](shadow-fleet-200-pts.md "
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-After checking each ship one-by-one, it's only the ship under the Nigerian flag whose last position was in the Gulf of Guinea.
+After checking each ship one-by-one, it's only the ship under the **Nigerian** flag whose last position was in the Gulf of Guinea.
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 

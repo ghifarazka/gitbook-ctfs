@@ -12,7 +12,7 @@ Too dark? It is. Doing reverse image search using this image won't return anythi
 
 <figure><img src="../../../.gitbook/assets/updated.jpg" alt="" width="243"><figcaption></figcaption></figure>
 
-Using this image, we found the original image, along with the name of the animal.
+Using this image, we found the original image, along with the name of the animal (**potoo**).
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

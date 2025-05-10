@@ -8,7 +8,7 @@ We are given a `.mov` file which contains audio only. Here it is after I convert
 
 {% file src="../../../.gitbook/assets/birdsong.mp3" %}
 
-After doing some Googling, I learned that there are many bird sound recognizer app out there, and almost all of them are mobile apps. I tried downloading some, but eventually sticked with [Merlin Bird ID](https://merlin.allaboutbirds.org/) because it has a feature where you can upload an audio file to identify the bird, instead of using microphone to record an audio.
+After doing some Googling, I learned that there are many bird sound recognizer app out there, and almost all of them are mobile apps. I tried downloading some, but eventually sticked with [Merlin Bird ID](https://merlin.allaboutbirds.org/) because it has a feature where you can upload an audio file to identify the bird, instead of using a microphone to record the audio.
 
 Here is the front page view. Click on "My Sound Recordings".
 

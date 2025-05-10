@@ -10,7 +10,7 @@ Following the description, we can Google "On 10 January 2025, it was reported th
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-The article tells us the name of the vessel: Eventin. Now, we can use [VesselFinder](https://www.vesselfinder.com/vessels) and search for a crude oil tanker under the Panaman flag named Eventin.
+The article tells us the name of the vessel: **Eventin**. Now, we can use [VesselFinder](https://www.vesselfinder.com/vessels) and search for a crude oil tanker under the Panaman flag named Eventin.
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -12,6 +12,6 @@ Following the description, we can take the names from the previously found websi
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-The poetic two-word phrase is "dancing butterflies".
+The poetic two-word phrase is **dancing butterflies**.
 
 Flag: `dancing butterflies`

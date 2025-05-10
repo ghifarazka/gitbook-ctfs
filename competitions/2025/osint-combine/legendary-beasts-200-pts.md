@@ -12,6 +12,6 @@ Following the description, we can use some Google dorking operators and search f
 
 <figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-The said legendary animal is aurochs.
+The said legendary animal is **aurochs**.
 
 Flag: `aurochs`

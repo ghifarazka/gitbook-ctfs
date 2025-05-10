@@ -4,7 +4,7 @@
 Participated as **k1nomi**, finished **4th** and solved all of the challenges
 {% endhint %}
 
-Throughout April 2025, **OSINT Combine** held a [CTF competition](https://osintcombine.ctfd.io/challenges) themed around wildlife. The CTF consisted of 20 challenges, with each covering various topics ranging from geolocation to bird identification.
+Throughout April 2025, **OSINT Combine** held a [CTF competition](https://osintcombine.ctfd.io/challenges) themed around wildlife. The CTF consisted of **20** challenges, with each covering various topics ranging from geolocation to bird identification.
 
 ### Challenges
 

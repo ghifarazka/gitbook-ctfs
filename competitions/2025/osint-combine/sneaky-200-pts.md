@@ -12,7 +12,7 @@ Now, the rest should be as easy as submitting the post's upload date... or so I 
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Apparently, 12 April 2024 is not the correct answer. At first, I started to doubt if this is even the correct post. However, after an additional search effort, the post referred to in the description could only be this one.
+Apparently, 12 April 2024 is **not** the correct answer. At first, I started to doubt if this is even the correct post. However, after an additional search effort, the post referred to in the description could only be this one.
 
 At one moment, I realized something. Instagram shows me the upload date (and [time](https://www.youtube.com/shorts/bOAnhsdDduI)!) of the post based on my timezone. This means that other than 12 April, 11 and 13 April are also possible solutions as well. And so, I tried submitting the three of them. It turned out that the correct answer is **13 April 2024**.&#x20;
 

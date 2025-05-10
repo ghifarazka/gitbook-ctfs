@@ -41,6 +41,6 @@ At this point, it's clear that the "hidden message" is located in each image's m
 
 <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-Combining all of them in order, we get the base64 srtring `ZmVhcmZ1bCBzeW1tZXRyeQ==`, which decodes to `fearful symmetry`.
+Combining all of them in order, we get the base64 srtring `ZmVhcmZ1bCBzeW1tZXRyeQ==`, which decodes to **fearful symmetry**.
 
 Flag: `fearful symmetry`

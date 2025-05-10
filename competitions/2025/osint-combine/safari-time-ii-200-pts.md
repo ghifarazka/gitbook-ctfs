@@ -6,7 +6,7 @@ This challenge has a prerequisite challenge: [safari-time-400-pts.md](safari-tim
 
 ### Solution
 
-After finding the island, we can enter the name of the island on Google Maps to see its [reviews](https://maps.app.goo.gl/whqcKpbRX6hhvNFy9). According to the top review, the island's favorite animal is the chimpanzee.
+After finding the island, we can enter the name of the island on Google Maps to see its [reviews](https://maps.app.goo.gl/whqcKpbRX6hhvNFy9). According to the top review, the island's favorite animal is the **chimpanzee**.
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 

@@ -12,6 +12,6 @@ To see how the website looked like in 2012, we could use the [Wayback Machine](h
 
 <figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-It's Fajar who was telling a story!
+It's **Fajar** who was telling a story!
 
 Flag: `fajar`
